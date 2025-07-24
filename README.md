@@ -1,2 +1,49 @@
 # NeoNeuro
-A 1v1 AI companion with a virtual avatar, powered by advanced language models and expressive Live2D animation. Natural conversation, emotional feedback, and TTS voice output in one immersive package.
+
+**NeoNeuro** 是一个受知名虚拟主播 [Neuro-Sama](https://www.twitch.tv/vedal987) 启发的 1v1 AI 聊天陪伴项目。项目致力于打造一个拥有虚拟形象、能进行情感对话和语音互动的 AI 伙伴。如果你喜欢 Neuro-Sama 的风格，欢迎体验并关注 NeoNeuro！
+
+---
+
+## 项目特色
+
+- 🤖 **自然对话**：基于先进大语言模型，支持情感共鸣和多轮个性化聊天。
+- 🎨 **虚拟形象**：集成 Live2D 动画角色，实时驱动表情和嘴型同步。
+- 🔊 **语音合成**：高质量 TTS 输出，多种风格语音自由切换。
+- 💬 **情感反馈**：自动识别用户情绪，用合适的表情和语调回应你。
+- 🛠️ **可拓展设计**：支持未来多风格/副人格接口，方便扩展和定制。
+
+---
+
+## 致敬与引流
+
+本项目受 [Neuro-Sama](https://www.twitch.tv/vedal987) 启发。  
+欢迎访问 Neuro-Sama 官方频道，体验真正的 AI 虚拟主播直播魅力，也欢迎回来体验 NeoNeuro 的 1v1 陪伴互动！
+
+---
+
+## 项目规划
+
+1. 基础对话与 Live2D 虚拟形象
+2. 情感驱动的表情和语音
+3. 简易歌唱/哼唱功能（可选）
+4. 副人格/风格切换接口（仅接口预留）
+5. 个性化自定义（服装、配饰、声音等）
+
+---
+
+## 快速开始
+
+_使用与搭建说明将在后续文档中补充。_
+
+---
+
+## 许可协议
+
+MIT
+
+---
+
+## 关于 NeoNeuro
+
+NeoNeuro 专注于 1v1 陪伴式 AI 聊天与情感互动，不涉及游戏与直播，适合需要虚拟陪伴的你。  
+如果你喜欢 Neuro-Sama，请记得去[支持原作者](https://www.twitch.tv/vedal987)。如果你想体验更私人的1v1 AI陪伴，欢迎试用 NeoNeuro！
